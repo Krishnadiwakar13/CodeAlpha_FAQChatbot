@@ -1,0 +1,167 @@
+[
+    {
+        "question": "How long does delivery take?",
+        "variations": [
+            "When will my package arrive?",
+            "When should I expect my order?",
+            "How long until my order arrives?",
+            "How many days does delivery take?",
+            "When will my order be delivered?"
+        ],
+        "answer": "Standard delivery usually takes 3 to 5 business days. Express delivery usually takes 1 to 2 business days."
+    },
+    {
+        "question": "Where is my order?",
+        "variations": [
+            "How can I track my order?",
+            "Can I track my package?",
+            "Where can I find my order?",
+            "How do I know where my package is?",
+            "Can I check my order status?"
+        ],
+        "answer": "You can track your order using the tracking link provided in your order confirmation email."
+    },
+    {
+        "question": "Can I cancel my order?",
+        "variations": [
+            "How do I cancel my order?",
+            "I want to cancel my order.",
+            "Can I stop my order?",
+            "Is it possible to cancel an order?",
+            "I placed an order by mistake."
+        ],
+        "answer": "Orders can be cancelled before they are shipped. Please contact customer support as soon as possible."
+    },
+    {
+        "question": "What is your return policy?",
+        "variations": [
+            "Can I return a product?",
+            "What are the return rules?",
+            "How many days do I have to return something?",
+            "Can I send an item back?",
+            "What is the return period?"
+        ],
+        "answer": "Products can be returned within 30 days of delivery as long as they are unused and in their original condition."
+    },
+    {
+        "question": "How do I return a product?",
+        "variations": [
+            "I want to return something I bought.",
+            "How can I send a product back?",
+            "What is the process for returning an item?",
+            "How do I send my order back?",
+            "I need to return an item."
+        ],
+        "answer": "To return a product, contact customer support with your order number. You will receive instructions for the return process."
+    },
+    {
+        "question": "When will I receive my refund?",
+        "variations": [
+            "How long does a refund take?",
+            "When will my money be returned?",
+            "How soon will I get my refund?",
+            "When will the refund reach my account?",
+            "How many days does a refund take?"
+        ],
+        "answer": "Refunds are normally processed within 5 to 7 business days after the returned product has been inspected."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "variations": [
+            "How can I pay for my order?",
+            "What payment options are available?",
+            "Can I pay using UPI?",
+            "Do you accept credit cards?",
+            "Which payment methods can I use?"
+        ],
+        "answer": "We accept major credit cards, debit cards, UPI, and other supported online payment methods."
+    },
+    {
+        "question": "Is cash on delivery available?",
+        "variations": [
+            "Can I pay when my order arrives?",
+            "Do you offer COD?",
+            "Can I use cash on delivery?",
+            "Is COD available?",
+            "Can I pay in cash?"
+        ],
+        "answer": "Cash on delivery is available for eligible products and selected delivery locations."
+    },
+    {
+        "question": "How can I change my delivery address?",
+        "variations": [
+            "Can I change my shipping address?",
+            "I entered the wrong address.",
+            "How do I update my delivery address?",
+            "Can I change where my order will be delivered?",
+            "I need to change my address."
+        ],
+        "answer": "You can request an address change before your order is shipped by contacting customer support."
+    },
+    {
+        "question": "What should I do if I receive a damaged product?",
+        "variations": [
+            "My product arrived damaged.",
+            "What if my order is damaged?",
+            "I received a broken item.",
+            "My package was damaged.",
+            "What should I do about a damaged order?"
+        ],
+        "answer": "If your product arrives damaged, contact customer support within 48 hours and provide photos of the damaged item and packaging."
+    },
+    {
+        "question": "Do you offer international shipping?",
+        "variations": [
+            "Can you ship internationally?",
+            "Do you deliver outside the country?",
+            "Can I order from another country?",
+            "Is international delivery available?",
+            "Do you ship worldwide?"
+        ],
+        "answer": "International shipping availability depends on the destination. Please check the available delivery options during checkout."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "variations": [
+            "How do I contact support?",
+            "I need help from customer service.",
+            "Where can I contact customer support?",
+            "How can I reach support?",
+            "I want to speak to customer service."
+        ],
+        "answer": "You can contact customer support through the support section of the website."
+    },
+    {
+        "question": "Can I exchange a product?",
+        "variations": [
+            "Can I replace my product?",
+            "How do I exchange an item?",
+            "Can I get a different product?",
+            "Is product exchange available?",
+            "I want to exchange something I bought."
+        ],
+        "answer": "Eligible products can be exchanged according to our exchange policy. Contact customer support to check whether your order qualifies."
+    },
+    {
+        "question": "How do I reset my account password?",
+        "variations": [
+            "I forgot my password.",
+            "How can I change my password?",
+            "I cannot remember my password.",
+            "How do I recover my account password?",
+            "I need to reset my login password."
+        ],
+        "answer": "Click the 'Forgot Password' option on the login page and follow the instructions sent to your registered email address."
+    },
+    {
+        "question": "Is my personal information secure?",
+        "variations": [
+            "Is my data safe?",
+            "How do you protect my information?",
+            "Is my account information secure?",
+            "What happens to my personal data?",
+            "Can I trust you with my information?"
+        ],
+        "answer": "We use appropriate security measures to protect customer information and account data."
+    }
+]
